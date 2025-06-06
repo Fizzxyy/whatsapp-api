@@ -1,17 +1,8 @@
 {
   "name": "baileys",
   "version": "7.6.0",
-  "description": "WhatsApp API Modification By Frrlz",  
-  "keywords": [
-    "whatsapp",
-    "js-whatsapp",
-    "whatsapp-api",
-    "whatsapp-web",
-    "whatsapp-chat",
-    "whatsapp-group",
-    "automation",
-    "multi-device"
-  ],
+  "description": "WhatsApp API Modification",  
+  "keywords": [],
   "homepage": "https://github.com/WhiskeySockets/Baileys/",
   "repository": {
     "url": "git@github.com:WhiskeySockets/Baileys.git"
@@ -53,7 +44,7 @@
     "axios": "^1.6.0",
     "cache-manager": "^5.7.6",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:fuarsykev/libsignal-node",
+    "libsignal": "github:whiskeysockets/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
@@ -62,7 +53,7 @@
     "ws": "^8.13.0"
   },
   "devDependencies": {
-    "@adiwajshing/eslint-config": "github:fuarsykev/eslint-config",
+    "@adiwajshing/eslint-config": "github:whiskeysockets/eslint-config",
     "@types/got": "^9.6.11",
     "@types/jest": "^27.5.1",
     "@types/node": "^16.0.0",
